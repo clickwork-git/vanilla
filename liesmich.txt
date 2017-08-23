@@ -1,0 +1,15 @@
+Vanilla Forums
+==============
+
+Vanilla Forums ist ein Open Source Community Forum, das entweder als "Business"-Dienst in der Cloud gehostet oder selbst eingerichtet werden kann. Vanilla Forums kann zudem als Kommentarsystem für Bludit verwendet werden.
+
+Vanilla Forums kann kostenlos heruntergeladen werden unter
+
+https://open.vanillaforums.com/download
+
+Einrichtung
+===========
+
+1) Installation des Plugins Vanilla Forums.
+2) Unter "Plugins" in der Konfiguration des Plugins die Adresse des verwendeten Vanilla Forums eingeben.
+3) In der Installation von Vanilla Forums unter "Forum Settings" > "Embed Forum" mit "Enable Embedding" die Einbettung aktivieren.
