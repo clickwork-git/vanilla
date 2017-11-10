@@ -19,8 +19,11 @@ At the moment the plugin works only with posts.
 Versions
 --------
 
+1.2, November 10, 2017
+- Update for Bludit 2.0.
+
 1.1, June 4, 2017
-- Fiexed: Display of comment field only on pages with single post.
+- Fixed: Display of comment field only on pages with single post.
 
 1.0, January 16, 2017
 - Release.
