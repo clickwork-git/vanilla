@@ -24,10 +24,10 @@ class pluginVanilla extends Plugin {
 
 	public function pageEnd()
 	{
-		global $Post;
+		global $Page;
 		global $Url;
 
-        $key = $Post->key();
+        $key = $Page->key();
 
         if ($Url->whereAmI() != 'home') {
 
