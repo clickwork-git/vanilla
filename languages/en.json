@@ -2,6 +2,6 @@
 	"plugin-data":
 	{
 		"name": "Vanilla Forums",
-		"description": "Integration of Vanilla Forums as comment system."
+		"description": "Integration of Vanilla Forums as comment system. Please read the file README.md."
 	}
 }
