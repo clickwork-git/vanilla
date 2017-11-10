@@ -2,6 +2,6 @@
 	"plugin-data":
 	{
 		"name": "Vanilla Forums",
-		"description": "Integration von Vanilla Forums als Kommentar-System."
+		"description": "Integration von Vanilla Forums als Kommentar-System. Zur Konfiguration vgl. die Datei liesmich.txt."
 	}
 }
