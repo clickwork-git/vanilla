@@ -14,8 +14,6 @@ Installation
 2) Enter at "Plugins" > "Configuration" the URL of your installation of Vanilla Forums.
 3) Activate in Vanilla Forums at "Forum Settings" > "Embed Forum" with "Enable Embedding" the embedding.
 
-At the moment the plugin works only with posts.
-
 Versions
 --------
 
