@@ -5,7 +5,7 @@ class pluginVanilla extends Plugin {
 	public function init()
 	{
 		$this->dbFields = array(
-			'vanilla-url'=>'http'
+			'vanilla-url'=>'https'
 		);
 	}
 
@@ -22,7 +22,7 @@ class pluginVanilla extends Plugin {
 		return $html;
 	}
 
-	public function postEnd()
+	public function pageEnd()
 	{
 		global $Post;
 		global $Url;
