@@ -2,6 +2,6 @@
 	"plugin-data":
 	{
 		"name": "Vanilla Forums",
-		"description": "Integreert Vanilla Forums als systeem voor reacties. Lees de instructies in README.md."
+		"description": "Integreert Vanilla Forums als systeem voor reacties. Lees de instructies op https://github.com/clickwork-git/vanilla."
 	}
 }
